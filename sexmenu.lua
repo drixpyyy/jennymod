@@ -1040,7 +1040,7 @@ PlayersTab:CreateButton({
 
 OverlayTab:CreateSection("Dick")
 OverlayTab:CreateButton({
-    Name = "Spawn Dick",
+    Name = "Dick",
     Callback = function() SpawnCock() end,
 })
 
